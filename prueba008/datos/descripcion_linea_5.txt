@@ -1,0 +1,39 @@
+Descripción detallada de la línea 5:
+
+La línea de metro 5 se llama Alameda de Osuna-Casa de Campo.
+- Dirección 1 (ida): de Alameda De Osuna a Casa De Campo.
+- Dirección 2 (vuelta): de Casa De Campo a Alameda De Osuna.
+La línea tiene un total de 32 estaciones:
+
+- La estación Alameda De Osuna está ubicada en la latitud 4.045.779 y longitud -358.752, en la Calle De La Corbeta 14 de la ciudad Madrid, provincia de Madrid
+- La estación El Capricho está ubicada en la latitud 4.045.347 y longitud -359.401, en la Calle De Pinos De Osuna 15 de la ciudad Madrid, provincia de Madrid
+- La estación Canillejas está ubicada en la latitud 4.044.942 y longitud -360.816, en la Calle De Alcalá 631 de la ciudad Madrid, provincia de Madrid
+- La estación Torre Arias está ubicada en la latitud 4.044.374 y longitud -361.699, en la Calle De Alcalá 557 de la ciudad Madrid, provincia de Madrid
+- La estación Suanzes está ubicada en la latitud 4.044.085 y longitud -362.684, en la Calle De Alcalá 527 de la ciudad Madrid, provincia de Madrid
+- La estación Ciudad Lineal está ubicada en la latitud 4.043.805 y longitud -363.816, en la Calle De Arturo Soria 2 de la ciudad Madrid, provincia de Madrid
+- La estación Pueblo Nuevo está ubicada en la latitud 4.043.569 y longitud -364.282, en la Calle De Alcalá 372 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Pueblo Nuevo de las líneas: 7
+- La estación Quintana está ubicada en la latitud 4.043.358 y longitud -364.736, en la Calle De La Virgen Del Sagrario 2 de la ciudad Madrid, provincia de Madrid
+- La estación El Carmen está ubicada en la latitud 4.043.189 y longitud -365.757, en la Calle De Raquel Méller 2 de la ciudad Madrid, provincia de Madrid
+- La estación Ventas está ubicada en la latitud 4.043.088 y longitud -366.361, en la Calle De Alcalá 204 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Ventas de las líneas: 2
+- La estación Diego De Leon está ubicada en la latitud 4.043.235 y longitud -367.426, en la Calle De Juan Bravo 58 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Diego De Leon de las líneas: 4
+- La estación Nuñez De Balboa está ubicada en la latitud 4.043.278 y longitud -368.258, en la Calle De Juan Bravo 20 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Nuñez De Balboa de las líneas: 9
+- La estación Ruben Dario está ubicada en la latitud 4.043.316 y longitud -368.954, en la Paseo De Eduardo Dato 33 de la ciudad Madrid, provincia de Madrid
+- La estación Alonso Martinez está ubicada en la latitud 4.042.828 y longitud -369.502, en la Calle De Almagro 4 de la ciudad Madrid, provincia de Madrid
+- La estación Chueca está ubicada en la latitud 4.042.293 y longitud -369.762, en la Plaza De Chueca 7 de la ciudad Madrid, provincia de Madrid
+- La estación Gran Via está ubicada en la latitud 4.041.999 y longitud -37.018, en la Calle   Gran Vía 23 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Gran Via de las líneas: 1
+- La estación Callao está ubicada en la latitud 4.042.008 y longitud -370.566, en la Plaza Del Callao 3 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Callao de las líneas: 3
+- La estación Opera está ubicada en la latitud 4.041.809 y longitud -370.935, en la Plaza De Isabel Ii 9 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Opera de las líneas: 2, R
+- La estación La Latina está ubicada en la latitud 4.041.128 y longitud -370.816, en la Calle De San Millán 5 de la ciudad Madrid, provincia de Madrid
+- La estación Puerta De Toledo está ubicada en la latitud 4.040.704 y longitud -371.105, en la Gta De Puerta De Toledo 1 de la ciudad Madrid, provincia de Madrid
+- La estación Acacias está ubicada en la latitud 4.040.387 y longitud -370.664, en la Paseo De Las Acacias 20 de la ciudad Madrid, provincia de Madrid
+- La estación Piramides está ubicada en la latitud 404.026 y longitud -371.138, en la Paseo Del Doctor Vallejo Nágera 37 de la ciudad Madrid, provincia de Madrid
+- La estación Marques De Vadillo está ubicada en la latitud 4.039.736 y longitud -371.596, en la Gta Del Marqués De Vadillo 4 de la ciudad Madrid, provincia de Madrid
+- La estación Urgel está ubicada en la latitud 4.039.335 y longitud -37.236, en la Calle Del Camino Viejo De Leganés 1 de la ciudad Madrid, provincia de Madrid
+- La estación Oporto está ubicada en la latitud 4.038.846 y longitud -373.132, en la Gta Del Valle De Oro 13 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Oporto de las líneas: 6
+- La estación Vista Alegre está ubicada en la latitud 4.038.885 y longitud -373.982, en la Calle De La Oca 74 de la ciudad Madrid, provincia de Madrid
+- La estación Carabanchel está ubicada en la latitud 4.038.783 y longitud -374.487, en la Gta Del Ejército 1 de la ciudad Madrid, provincia de Madrid
+- La estación Eugenia De Montijo está ubicada en la latitud 4.038.439 y longitud -375.121, en la Calle De Ocaña 86 de la ciudad Madrid, provincia de Madrid
+- La estación Aluche está ubicada en la latitud 4.038.563 y longitud -37.608, en la Calle De Valmojado 293 de la ciudad Madrid, provincia de Madrid
+- La estación Empalme está ubicada en la latitud 4.039.057 y longitud -376.535, en la Calle De Tembleque 105 de la ciudad Madrid, provincia de Madrid
+- La estación Campamento está ubicada en la latitud 4.039.481 y longitud -376.813, en la Avda Del Padre Piquer 7 de la ciudad Madrid, provincia de Madrid
+- La estación Casa De Campo está ubicada en la latitud 4.040.324 y longitud -376.101, en la Ctra Del Zoo 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Casa De Campo de las líneas: 10

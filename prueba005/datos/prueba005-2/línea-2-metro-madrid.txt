@@ -1,0 +1,25 @@
+La línea de metro 2 se llama Las Rosas-Cuatro Caminos.
+- Dirección 1 (ida): de Las Rosas a Cuatro Caminos.
+- Dirección 2 (vuelta): de Cuatro Caminos a Las Rosas.
+La línea tiene un total de 20 estaciones:
+
+- La estación Las Rosas está ubicada en la latitud 4.042.375 y longitud -360.331, en la Paseo De Ginebra 35 de la ciudad Madrid, provincia de Madrid
+- La estación Avenida De Guadalajara está ubicada en la latitud 4.042.239 y longitud -361.206, en la Avda De Guadalajara 110 de la ciudad Madrid, provincia de Madrid
+- La estación Alsacia está ubicada en la latitud 4.041.829 y longitud -362.351, en la Plaza De Alsacia S/N de la ciudad Madrid, provincia de Madrid
+- La estación La Almudena está ubicada en la latitud 4.042.361 y longitud -363.914, en la Calle De Arriaga 75 de la ciudad Madrid, provincia de Madrid
+- La estación La Elipa está ubicada en la latitud 4.042.662 y longitud -365.052, en la Avda Del Marqués De Corbera 58 de la ciudad Madrid, provincia de Madrid
+- La estación Ventas está ubicada en la latitud 4.043.088 y longitud -366.366, en la Calle De Alcalá 204 de la ciudad Madrid, provincia de Madrid
+- La estación Manuel Becerra está ubicada en la latitud 404.279 y longitud -366.926, en la Plaza De Manuel Becerra 1 de la ciudad Madrid, provincia de Madrid
+- La estación Goya está ubicada en la latitud 4.042.455 y longitud -367.591, en la Calle De Alcalá 96 de la ciudad Madrid, provincia de Madrid
+- La estación Principe De Vergara está ubicada en la latitud 4.042.294 y longitud -368.012, en la Calle De Alcalá 123 de la ciudad Madrid, provincia de Madrid
+- La estación Retiro está ubicada en la latitud 4.042.031 y longitud -368.624, en la Calle De Alcalá 81 de la ciudad Madrid, provincia de Madrid
+- La estación Banco De España está ubicada en la latitud 4.041.922 y longitud -369.497, en la Calle De Alcalá 49 de la ciudad Madrid, provincia de Madrid
+- La estación Sevilla está ubicada en la latitud 4.041.805 y longitud -369.925, en la Calle De Alcalá 23 de la ciudad Madrid, provincia de Madrid
+- La estación Sol está ubicada en la latitud 4.041.685 y longitud -370.326, en la Plaza De La Puerta Del Sol 6 de la ciudad Madrid, provincia de Madrid tiene intercambiador con la estación Sol de las línea 3
+- La estación Opera está ubicada en la latitud 4.041.809 y longitud -370.942, en la Plaza De Isabel Ii 9 de la ciudad Madrid, provincia de Madrid tiene intercambiador con la estación Opera de las línea R
+- La estación Santo Domingo está ubicada en la latitud 4.042.132 y longitud -370.796, en la Calle De San Bernardo 11 de la ciudad Madrid, provincia de Madrid
+- La estación Noviciado está ubicada en la latitud 4.042.484 y longitud -370.742, en la Calle De San Bernardo 49 de la ciudad Madrid, provincia de Madrid
+- La estación San Bernardo está ubicada en la latitud 4.043.001 y longitud -370.557, en la Calle De San Bernardo 94 de la ciudad Madrid, provincia de Madrid
+- La estación Quevedo está ubicada en la latitud 4.043.322 y longitud -370.433, en la Gta De Quevedo 1 de la ciudad Madrid, provincia de Madrid
+- La estación Canal está ubicada en la latitud 4.043.841 y longitud -370.433, en la Calle De Bravo Murillo 40 de la ciudad Madrid, provincia de Madrid
+- La estación Cuatro Caminos está ubicada en la latitud 4.044.697 y longitud -370.392, en la Gta De Cuatro Caminos 10 de la ciudad Madrid, provincia de Madrid

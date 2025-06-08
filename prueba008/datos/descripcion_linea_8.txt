@@ -1,0 +1,15 @@
+Descripción detallada de la línea 8:
+
+La línea de metro 8 se llama Nuevos Ministerios - Aeropuerto T4.
+- Dirección 1 (ida): de Nuevos Ministerios a Aeropuerto T-4.
+- Dirección 2 (vuelta): de Aeropuerto T-4 a Nuevos Ministerios.
+La línea tiene un total de 8 estaciones:
+
+- La estación Nuevos Ministerios está ubicada en la latitud 4.044.655 y longitud -369.241, en la Paseo De La Castellana 65 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Nuevos Ministerios de las líneas: 10
+- La estación Colombia está ubicada en la latitud 4.045.634 y longitud -367.682, en la Calle Del Príncipe De Vergara 258 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Colombia de las líneas: 9
+- La estación Pinar Del Rey está ubicada en la latitud 40.468 y longitud -364.867, en la Avda De La Gran Vía De Hortaleza 47 de la ciudad Madrid, provincia de Madrid
+- La estación Mar De Cristal está ubicada en la latitud 4.046.938 y longitud -363.832, en la Gta De Mar De Cristal 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Mar De Cristal de las líneas: 4
+- La estación Feria De Madrid está ubicada en la latitud 4.046.389 y longitud -36.162, en la Avda Del Partenón 5 de la ciudad Madrid, provincia de Madrid
+- La estación Aeropuerto T1-T2-T3 está ubicada en la latitud 4.046.864 y longitud -356.954, en la Avda De La Hispanidad Sn de la ciudad Madrid, provincia de Madrid
+- La estación Barajas está ubicada en la latitud 4.047.577 y longitud -358.253, en la Cmno  Viejo De Hortaleza 10 de la ciudad Madrid, provincia de Madrid
+- La estación Aeropuerto T-4 está ubicada en la latitud 4.049.177 y longitud -359.325, en la Ctra De Alcobendas A Barajas Sn de la ciudad Madrid, provincia de Madrid

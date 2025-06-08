@@ -1,0 +1,14 @@
+Descripción detallada de la línea 11:
+
+La línea de metro 11 se llama Plaza Elíptica-La Fortuna.
+- Dirección 1 (ida): de Plaza Eliptica a La Fortuna.
+- Dirección 2 (vuelta): de La Fortuna a Plaza Eliptica.
+La línea tiene un total de 7 estaciones:
+
+- La estación Plaza Eliptica está ubicada en la latitud 403.846 y longitud -371.825, en la Plaza De Fernández Ladreda 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Plaza Eliptica de las líneas: 6
+- La estación Abrantes está ubicada en la latitud 4.038.083 y longitud -37.279, en la Avda De Abrantes 77 de la ciudad Madrid, provincia de Madrid
+- La estación Pan Bendito está ubicada en la latitud 4.037.587 y longitud -373.417, en la Avda De Abrantes 289 de la ciudad Madrid, provincia de Madrid
+- La estación San Francisco está ubicada en la latitud 403.736 y longitud -37.391, en la Avda De Los Poblados 102 de la ciudad Madrid, provincia de Madrid
+- La estación Carabanchel Alto está ubicada en la latitud 40.372 y longitud -375.191, en la Avda De Carabanchel Alto 40 de la ciudad Madrid, provincia de Madrid
+- La estación La Peseta está ubicada en la latitud 4.036.422 y longitud -37.569, en la Calle De Salvador Allende 3 de la ciudad Madrid, provincia de Madrid
+- La estación La Fortuna está ubicada en la latitud 4.035.795 y longitud -377.783, en la Calle   San José 40 de la ciudad Leganés, provincia de Madrid

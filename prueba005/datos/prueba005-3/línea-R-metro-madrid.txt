@@ -1,0 +1,7 @@
+La línea de metro R se llama Opera-Príncipe Pío.
+- Dirección 1 (ida): de Opera a Principe Pio.
+- Dirección 2 (vuelta): de Principe Pio a Opera.
+La línea tiene un total de 2 estaciones:
+
+- La estación Opera está ubicada en la latitud 4.041.809 y longitud -370.928, en la Plaza De Isabel Ii 9 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Opera de las líneas: 2
+- La estación Principe Pio está ubicada en la latitud 4.042.099 y longitud -372.033, en la Paseo De La Florida 2 de la ciudad Madrid, provincia de Madrid: tiene trasbordo con la/s línea/s: 10

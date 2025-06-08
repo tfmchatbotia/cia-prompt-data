@@ -1,0 +1,36 @@
+Descripción detallada de la línea 6:
+
+La línea de metro 6 se llama Circular.
+- Dirección 1 (ida): de Laguna a Laguna.
+- Dirección 2 (vuelta): de Laguna a Laguna.
+La línea tiene un total de 29 estaciones:
+
+- La estación Laguna está ubicada en la latitud 4.039.923 y longitud -374.429, en la Calle De Cuart De Poblet 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Laguna de las líneas: 6
+- La estación Carpetana está ubicada en la latitud 403.927 y longitud -374.099, en la Calle   Vía Carpetana 141 de la ciudad Madrid, provincia de Madrid
+- La estación Oporto está ubicada en la latitud 4.038.847 y longitud -373.126, en la Gta Del Valle De Oro 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Oporto de las líneas: 5
+- La estación Opañel está ubicada en la latitud 403.869 y longitud -372.313, en la Calle Del Valle De Oro 50 A de la ciudad Madrid, provincia de Madrid
+- La estación Plaza Eliptica está ubicada en la latitud 403.846 y longitud -371.837, en la Plaza De Fernández Ladreda 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Plaza Eliptica de las líneas: 11
+- La estación Usera está ubicada en la latitud 403.871 y longitud -37.069, en la Calle De Amparo Usera 44 de la ciudad Madrid, provincia de Madrid
+- La estación Legazpi está ubicada en la latitud 4.039.116 y longitud -369.505, en la Plaza De Legazpi 2 B de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Legazpi de las líneas: 3
+- La estación Arganzuela-Planetario está ubicada en la latitud 403.931 y longitud -368.864, en la Calle Del Bronce 1 A de la ciudad Madrid, provincia de Madrid
+- La estación Mendez Alvaro está ubicada en la latitud 4.039.538 y longitud -367.814, en la Calle Del Ombu 16 de la ciudad Madrid, provincia de Madrid
+- La estación Pacifico está ubicada en la latitud 4.040.207 y longitud -367.386, en la Calle De Andalucía 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Pacifico de las líneas: 1
+- La estación Conde De Casal está ubicada en la latitud 4.040.697 y longitud -367.041, en la Plaza Del Conde De Casal 3 de la ciudad Madrid, provincia de Madrid
+- La estación Sainz De Baranda está ubicada en la latitud 4.041.507 y longitud -366.951, en la Calle Del Doctor Esquerdo 103 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Sainz De Baranda de las líneas: 9
+- La estación Odonnell está ubicada en la latitud 4.042.289 y longitud -36.686, en la Calle Del Doctor Esquerdo 47 de la ciudad Madrid, provincia de Madrid
+- La estación Manuel Becerra está ubicada en la latitud 404.279 y longitud -366.921, en la Plaza De Manuel Becerra 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Manuel Becerra de las líneas: 2
+- La estación Diego De Leon está ubicada en la latitud 4.043.295 y longitud -367.294, en la Calle De Francisco Silvela 47 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Diego De Leon de las líneas: 4
+- La estación Avenida De America está ubicada en la latitud 4.043.804 y longitud -367.658, en la Avda De América 9 A de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Avenida De America de las líneas: 4, 9
+- La estación Republica Argentina está ubicada en la latitud 4.044.379 y longitud -368.406, en la Calle De Joaquín Costa 24 de la ciudad Madrid, provincia de Madrid
+- La estación Nuevos Ministerios está ubicada en la latitud 4.044.662 y longitud -369.241, en la Calle De Raimundo Fernández Villaverde 67 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Nuevos Ministerios de las líneas: 10
+- La estación Cuatro Caminos está ubicada en la latitud 4.044.697 y longitud -370.387, en la Gta De Cuatro Caminos 9 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Cuatro Caminos de las líneas: 1
+- La estación Guzman El Bueno está ubicada en la latitud 4.044.637 y longitud -371.229, en la Calle De Guzmán El Bueno 118 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Guzman El Bueno de las líneas: 7
+- La estación Vicente Aleixandre está ubicada en la latitud 4.044.644 y longitud -371.943, en la Avda De Gregorio Del Amo 4 de la ciudad Madrid, provincia de Madrid
+- La estación Ciudad Universitaria está ubicada en la latitud 4.044.356 y longitud -372.678, en la Avda  Complutense 1 de la ciudad Madrid, provincia de Madrid
+- La estación Moncloa está ubicada en la latitud 4.043.497 y longitud -371.945, en la Paseo De Moret 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Moncloa de las líneas: 3
+- La estación Argüelles está ubicada en la latitud 4.043.053 y longitud -371.596, en la Calle De Alberto Aguilera 72 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Argüelles de las líneas: 3
+- La estación Principe Pio está ubicada en la latitud 4.042.107 y longitud -372.032, en la Paseo De La Florida 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Principe Pio de las líneas: 10, R
+- La estación Puerta Del Angel está ubicada en la latitud 404.139 y longitud -372.724, en la Paseo De Extremadura 26 de la ciudad Madrid, provincia de Madrid
+- La estación Alto De Extremadura está ubicada en la latitud 4.040.993 y longitud -373.894, en la Paseo De Extremadura 154 de la ciudad Madrid, provincia de Madrid
+- La estación Lucero está ubicada en la latitud 404.051 y longitud -374.534, en la Calle De Las Higueras 47 de la ciudad Madrid, provincia de Madrid
+- La estación Laguna está ubicada en la latitud 4.039.923 y longitud -374.429, en la Calle De Cuart De Poblet 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Laguna de las líneas: 6

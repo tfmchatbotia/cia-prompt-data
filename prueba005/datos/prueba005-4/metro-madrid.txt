@@ -1,0 +1,110 @@
+La línea de metro 12 se llama MetroSur.
+- Dirección 1 (ida): de Puerta Del Sur a Puerta Del Sur.
+- Dirección 2 (vuelta): de Puerta Del Sur a Puerta Del Sur.
+La línea tiene un total de 29 estaciones:
+- La estación Puerta Del Sur está ubicada en la latitud 4.034.543 y longitud -381.249, en la Avda De Leganés 52 de la ciudad Alcorcón, provincia de Madrid: tiene conexión con la estación Puerta Del Sur de las líneas: 10
+- La estación Parque Lisboa está ubicada en la latitud 4.034.969 y longitud -38.212, en la Calle De Porto Lagos 7 de la ciudad Alcorcón, provincia de Madrid
+- La estación Alcorcon Central está ubicada en la latitud 4.035.008 y longitud -383.178, en la Avda De Móstoles 12 de la ciudad Alcorcón, provincia de Madrid
+- La estación Parque Oeste está ubicada en la latitud 4.034.589 y longitud -384.934, en la Calle De Estambul 5 de la ciudad Alcorcón, provincia de Madrid
+- La estación Universidad Rey Juan Carlos está ubicada en la latitud 4.033.512 y longitud -387.218, en la Calle   Tulipán 2 de la ciudad Móstoles, provincia de Madrid
+- La estación Mostoles Central está ubicada en la latitud 403.285 y longitud -386.354, en la Paseo De La Estación 13 de la ciudad Móstoles, provincia de Madrid
+- La estación Pradillo está ubicada en la latitud 4.032.168 y longitud -386.489, en la Calle De Agustina De Aragón 23 de la ciudad Móstoles, provincia de Madrid
+- La estación Hospital De Mostoles está ubicada en la latitud 4.031.652 y longitud -387.471, en la Calle Del Río Sella 10 de la ciudad Móstoles, provincia de Madrid
+- La estación Manuela Malasaña está ubicada en la latitud 4.030.903 y longitud -386.402, en la Plaza   Sol De 9001 Sn de la ciudad Móstoles, provincia de Madrid
+- La estación Loranca está ubicada en la latitud 4.029.681 y longitud -383.768, en la Calle De La Alegría 4 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Hospital De Fuenlabrada está ubicada en la latitud 4.028.576 y longitud -381.642, en la Cmno Del Molino 3 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Parque Europa está ubicada en la latitud 4.028.518 y longitud -380.632, en la Calle De Francia 34 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Fuenlabrada Central está ubicada en la latitud 4.028.268 y longitud -379.891, en la Calle De La Vía Sn de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Parque De Los Estados está ubicada en la latitud 4.028.684 y longitud -378.697, en la Calle De Venezuela 2 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Arroyo Culebro está ubicada en la latitud 4.028.874 y longitud -375.682, en la Paseo De Juan José Rosón 1 de la ciudad Getafe, provincia de Madrid
+- La estación Conservatorio está ubicada en la latitud 4.029.324 y longitud -374.576, en la Avda De Las Arcas Del Agua 5 de la ciudad Getafe, provincia de Madrid
+- La estación Alonso De Mendoza está ubicada en la latitud 4.030.081 y longitud -373.664, en la Calle Del Greco 6 de la ciudad Getafe, provincia de Madrid
+- La estación Getafe Central está ubicada en la latitud 4.030.993 y longitud -373.403, en la Calle  Ferrocarril 2 de la ciudad Getafe, provincia de Madrid
+- La estación Juan De La Cierva está ubicada en la latitud 403.118 y longitud -372.224, en la Avda De España 20 de la ciudad Getafe, provincia de Madrid
+- La estación El Casar está ubicada en la latitud 4.031.862 y longitud -370.985, en la Avda Del Casar 2 de la ciudad Getafe, provincia de Madrid
+- La estación Los Espartales está ubicada en la latitud 4.032.423 y longitud -37.182, en la Avda   Rigoberta Menchú 3 de la ciudad Getafe, provincia de Madrid
+- La estación El Bercial está ubicada en la latitud 4.032.907 y longitud -372.963, en la Avda   Comandante José Manuel Ripollés 4 de la ciudad Getafe, provincia de Madrid
+- La estación El Carrascal está ubicada en la latitud 4.033.664 y longitud -374.018, en la Avda   Rey Juan Carlos I 85 de la ciudad Leganés, provincia de Madrid
+- La estación Julian Besteiro está ubicada en la latitud 4.033.475 y longitud -375.266, en la Avda   Rey Juan Carlos I 23 A de la ciudad Leganés, provincia de Madrid
+- La estación Casa Del Reloj está ubicada en la latitud 403.266 y longitud -375.942, en la Avda   Gibraltar 11 de la ciudad Leganés, provincia de Madrid
+- La estación Hospital Severo Ochoa está ubicada en la latitud 4.032.177 y longitud -376.797, en la Avda   Orellana 3 de la ciudad Leganés, provincia de Madrid
+- La estación Leganes Central está ubicada en la latitud 4.032.899 y longitud -377.154, en la Calle  Virgen Del Camino 1 de la ciudad Leganés, provincia de Madrid
+- La estación San Nicasio está ubicada en la latitud 4.033.616 y longitud -377.587, en la Avda   Mar Mediterráneo Sn de la ciudad Leganés, provincia de Madrid
+- La estación Puerta Del Sur está ubicada en la latitud 4.034.543 y longitud -381.249, en la Avda De Leganés 52 de la ciudad Alcorcón, provincia de Madrid: tiene conexión con la estación Puerta Del Sur de las líneas: 10
+La línea de metro R se llama Opera-Príncipe Pío.
+- Dirección 1 (ida): de Opera a Principe Pio.
+- Dirección 2 (vuelta): de Principe Pio a Opera.
+La línea tiene un total de 2 estaciones:
+- La estación Opera está ubicada en la latitud 4.041.809 y longitud -370.928, en la Plaza De Isabel Ii 9 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Opera de las líneas: 2
+- La estación Principe Pio está ubicada en la latitud 4.042.099 y longitud -372.033, en la Paseo De La Florida 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Principe Pio de las líneas: 10
+La línea de metro 2 se llama Las Rosas-Cuatro Caminos.
+- Dirección 1 (ida): de Las Rosas a Cuatro Caminos.
+- Dirección 2 (vuelta): de Cuatro Caminos a Las Rosas.
+La línea tiene un total de 20 estaciones:
+- La estación Las Rosas está ubicada en la latitud 4.042.375 y longitud -360.331, en la Paseo De Ginebra 35 de la ciudad Madrid, provincia de Madrid
+- La estación Avenida De Guadalajara está ubicada en la latitud 4.042.239 y longitud -361.206, en la Avda De Guadalajara 110 de la ciudad Madrid, provincia de Madrid
+- La estación Alsacia está ubicada en la latitud 4.041.829 y longitud -362.351, en la Plaza De Alsacia S/N de la ciudad Madrid, provincia de Madrid
+- La estación La Almudena está ubicada en la latitud 4.042.361 y longitud -363.914, en la Calle De Arriaga 75 de la ciudad Madrid, provincia de Madrid
+- La estación La Elipa está ubicada en la latitud 4.042.662 y longitud -365.052, en la Avda Del Marqués De Corbera 58 de la ciudad Madrid, provincia de Madrid
+- La estación Ventas está ubicada en la latitud 4.043.088 y longitud -366.366, en la Calle De Alcalá 204 de la ciudad Madrid, provincia de Madrid
+- La estación Manuel Becerra está ubicada en la latitud 404.279 y longitud -366.926, en la Plaza De Manuel Becerra 1 de la ciudad Madrid, provincia de Madrid
+- La estación Goya está ubicada en la latitud 4.042.455 y longitud -367.591, en la Calle De Alcalá 96 de la ciudad Madrid, provincia de Madrid
+- La estación Principe De Vergara está ubicada en la latitud 4.042.294 y longitud -368.012, en la Calle De Alcalá 123 de la ciudad Madrid, provincia de Madrid
+- La estación Retiro está ubicada en la latitud 4.042.031 y longitud -368.624, en la Calle De Alcalá 81 de la ciudad Madrid, provincia de Madrid
+- La estación Banco De España está ubicada en la latitud 4.041.922 y longitud -369.497, en la Calle De Alcalá 49 de la ciudad Madrid, provincia de Madrid
+- La estación Sevilla está ubicada en la latitud 4.041.805 y longitud -369.925, en la Calle De Alcalá 23 de la ciudad Madrid, provincia de Madrid
+- La estación Sol está ubicada en la latitud 4.041.685 y longitud -370.326, en la Plaza De La Puerta Del Sol 6 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Sol de las líneas: 3
+- La estación Opera está ubicada en la latitud 4.041.809 y longitud -370.942, en la Plaza De Isabel Ii 9 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Opera de las líneas: R
+- La estación Santo Domingo está ubicada en la latitud 4.042.132 y longitud -370.796, en la Calle De San Bernardo 11 de la ciudad Madrid, provincia de Madrid
+- La estación Noviciado está ubicada en la latitud 4.042.484 y longitud -370.742, en la Calle De San Bernardo 49 de la ciudad Madrid, provincia de Madrid
+- La estación San Bernardo está ubicada en la latitud 4.043.001 y longitud -370.557, en la Calle De San Bernardo 94 de la ciudad Madrid, provincia de Madrid
+- La estación Quevedo está ubicada en la latitud 4.043.322 y longitud -370.433, en la Gta De Quevedo 1 de la ciudad Madrid, provincia de Madrid
+- La estación Canal está ubicada en la latitud 4.043.841 y longitud -370.433, en la Calle De Bravo Murillo 40 de la ciudad Madrid, provincia de Madrid
+- La estación Cuatro Caminos está ubicada en la latitud 4.044.697 y longitud -370.392, en la Gta De Cuatro Caminos 10 de la ciudad Madrid, provincia de Madrid
+La línea de metro 10 se llama Hospital Infanta Sofía-Puerta del Sur.
+- Dirección 1 (ida): de Tres Olivos a Puerta Del Sur.
+- Dirección 2 (vuelta): de Puerta Del Sur a Tres Olivos.
+La línea tiene un total de 21 estaciones:
+- La estación Tres Olivos está ubicada en la latitud 405.012 y longitud -36.952, en la Acces   M-607 Sn de la ciudad Madrid, provincia de Madrid
+- La estación Fuencarral está ubicada en la latitud 4.049.509 y longitud -369.283, en la Calle De La Fuente Chica 21 de la ciudad Madrid, provincia de Madrid
+- La estación Begoña está ubicada en la latitud 4.048.041 y longitud -368.585, en la Paseo De La Castellana 261 de la ciudad Madrid, provincia de Madrid
+- La estación Chamartin está ubicada en la latitud 404.721 y longitud -368.259, en la Calle De Agustín De Foxá 40 de la ciudad Madrid, provincia de Madrid
+- La estación Plaza De Castilla está ubicada en la latitud 404.669 y longitud -368.909, en la Paseo De La Castellana 216 de la ciudad Madrid, provincia de Madrid
+- La estación Cuzco está ubicada en la latitud 4.045.842 y longitud -368.985, en la Paseo De La Castellana 162 de la ciudad Madrid, provincia de Madrid
+- La estación Santiago Bernabeu está ubicada en la latitud 4.045.159 y longitud -369.038, en la Paseo De La Castellana 97 de la ciudad Madrid, provincia de Madrid
+- La estación Nuevos Ministerios está ubicada en la latitud 4.044.659 y longitud -369.241, en la Calle De Raimundo Fernández Villaverde 67 de la ciudad Madrid, provincia de Madrid
+- La estación Gregorio Marañon está ubicada en la latitud 4.043.753 y longitud -369.127, en la Calle De Miguel Ángel 29 de la ciudad Madrid, provincia de Madrid
+- La estación Alonso Martinez está ubicada en la latitud 4.042.853 y longitud -369.643, en la Calle De Manuel González Longoria 14 de la ciudad Madrid, provincia de Madrid
+- La estación Tribunal está ubicada en la latitud 40.426 y longitud -370.208, en la Calle De La Palma 5 de la ciudad Madrid, provincia de Madrid
+- La estación Plaza De España está ubicada en la latitud 4.042.409 y longitud -37.097, en la Calle De Los Reyes 10 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Plaza De España de las líneas: 3
+- La estación Principe Pio está ubicada en la latitud 4.042.103 y longitud -372.033, en la Paseo De La Florida 2 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Principe Pio de las líneas: R
+- La estación Lago está ubicada en la latitud 4.041.641 y longitud -373.563, en la Ronda Del Lago 3 de la ciudad Madrid, provincia de Madrid
+- La estación Batan está ubicada en la latitud 4.040.786 y longitud -375.311, en la Paseo De La Venta 1 de la ciudad Madrid, provincia de Madrid
+- La estación Casa De Campo está ubicada en la latitud 4.040.321 y longitud -376.101, en la Paseo De La Venta Sn de la ciudad Madrid, provincia de Madrid
+- La estación Colonia Jardin está ubicada en la latitud 4.039.698 y longitud -377.462, en la Calle De Arenas De San Pedro 2 de la ciudad Madrid, provincia de Madrid
+- La estación Aviacion Española está ubicada en la latitud 4.038.364 y longitud -378.392, en la Paseo De Extremadura 463 de la ciudad Madrid, provincia de Madrid
+- La estación Cuatro Vientos está ubicada en la latitud 4.037.771 y longitud -379.152, en la Col   Militar De Cuatro Vientos 6 B de la ciudad Madrid, provincia de Madrid
+- La estación Joaquin Vilumbrales está ubicada en la latitud 4.034.985 y longitud -38.072, en la Avda De La Libertad 13 de la ciudad Alcorcón, provincia de Madrid
+- La estación Puerta Del Sur está ubicada en la latitud 4.034.524 y longitud -381.211, en la Avda De La Libertad 2 de la ciudad Alcorcón, provincia de Madrid: tiene conexión con la estación Puerta Del Sur de las líneas: 10
+La línea de metro 3 se llama Villaverde Alto-Moncloa.
+- Dirección 1 (ida): de Villaverde Alto a Moncloa.
+- Dirección 2 (vuelta): de Moncloa a Villaverde Alto.
+La línea tiene un total de 18 estaciones:
+- La estación Villaverde Alto está ubicada en la latitud 4.034.123 y longitud -371.199, en la Calle Del Valle De Tobalina 56 de la ciudad Madrid, provincia de Madrid
+- La estación San Cristobal está ubicada en la latitud 4.034.154 y longitud -369.318, en la Avda De Andalucía 81 de la ciudad Madrid, provincia de Madrid
+- La estación Villaverde Bajo Cruce está ubicada en la latitud 4.035.089 y longitud -369.265, en la Avda De Andalucía 38 de la ciudad Madrid, provincia de Madrid
+- La estación Ciudad De Los Angeles está ubicada en la latitud 4.035.959 y longitud -369.363, en la Avda De Andalucía 38 de la ciudad Madrid, provincia de Madrid
+- La estación San Fermin-Orcasur está ubicada en la latitud 4.036.999 y longitud -369.418, en la Avda De Andalucía 9 de la ciudad Madrid, provincia de Madrid
+- La estación Hospital 12 De Octubre está ubicada en la latitud 4.037.503 y longitud -369.585, en la Avda De Córdoba 49 de la ciudad Madrid, provincia de Madrid
+- La estación Almendrales está ubicada en la latitud 4.038.409 y longitud -369.788, en la Avda De Córdoba 21 de la ciudad Madrid, provincia de Madrid
+- La estación Legazpi está ubicada en la latitud 4.039.116 y longitud -369.511, en la Plaza De Legazpi 2 B de la ciudad Madrid, provincia de Madrid
+- La estación Delicias está ubicada en la latitud 403.999 y longitud -36.942, en la Paseo De Las Delicias 60 de la ciudad Madrid, provincia de Madrid
+- La estación Palos De La Frontera está ubicada en la latitud 4.040.307 y longitud -369.423, en la Calle De Palos De La Frontera 33 de la ciudad Madrid, provincia de Madrid
+- La estación Embajadores está ubicada en la latitud 4.040.513 y longitud -370.268, en la Gta De Embajadores 10 de la ciudad Madrid, provincia de Madrid
+- La estación Lavapies está ubicada en la latitud 4.040.851 y longitud -37.009, en la Plaza De Lavapiés 7 de la ciudad Madrid, provincia de Madrid
+- La estación Sol está ubicada en la latitud 4.041.682 y longitud -370.326, en la Plaza De La Puerta Del Sol 6 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Sol de las líneas: 2
+- La estación Callao está ubicada en la latitud 4.042.014 y longitud -370.566, en la Plaza Del Callao 3 de la ciudad Madrid, provincia de Madrid
+- La estación Plaza De España está ubicada en la latitud 4.042.342 y longitud -37.112, en la Plaza De España 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Plaza De España de las líneas: 10
+- La estación Ventura Rodriguez está ubicada en la latitud 4.042.709 y longitud -371.341, en la Calle De La Princesa 22 de la ciudad Madrid, provincia de Madrid
+- La estación Argüelles está ubicada en la latitud 4.043.066 y longitud -371.596, en la Calle De Alberto Aguilera 72 de la ciudad Madrid, provincia de Madrid
+- La estación Moncloa está ubicada en la latitud 4.043.502 y longitud -371.945, en la Plaza De La Moncloa 1 de la ciudad Madrid, provincia de Madrid

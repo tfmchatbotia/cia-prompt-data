@@ -1,0 +1,34 @@
+La línea de metro 12 se llama MetroSur.
+- Dirección 1 (ida): de Puerta Del Sur a Puerta Del Sur.
+- Dirección 2 (vuelta): de Puerta Del Sur a Puerta Del Sur.
+La línea tiene un total de 29 estaciones:
+
+- La estación Puerta Del Sur está ubicada en la latitud 4.034.543 y longitud -381.249, en la Avda De Leganés 52 de la ciudad Alcorcón, provincia de Madrid: tiene trasbordo con la/s línea/s: 10
+- La estación Parque Lisboa está ubicada en la latitud 4.034.969 y longitud -38.212, en la Calle De Porto Lagos 7 de la ciudad Alcorcón, provincia de Madrid
+- La estación Alcorcon Central está ubicada en la latitud 4.035.008 y longitud -383.178, en la Avda De Móstoles 12 de la ciudad Alcorcón, provincia de Madrid
+- La estación Parque Oeste está ubicada en la latitud 4.034.589 y longitud -384.934, en la Calle De Estambul 5 de la ciudad Alcorcón, provincia de Madrid
+- La estación Universidad Rey Juan Carlos está ubicada en la latitud 4.033.512 y longitud -387.218, en la Calle   Tulipán 2 de la ciudad Móstoles, provincia de Madrid
+- La estación Mostoles Central está ubicada en la latitud 403.285 y longitud -386.354, en la Paseo De La Estación 13 de la ciudad Móstoles, provincia de Madrid
+- La estación Pradillo está ubicada en la latitud 4.032.168 y longitud -386.489, en la Calle De Agustina De Aragón 23 de la ciudad Móstoles, provincia de Madrid
+- La estación Hospital De Mostoles está ubicada en la latitud 4.031.652 y longitud -387.471, en la Calle Del Río Sella 10 de la ciudad Móstoles, provincia de Madrid
+- La estación Manuela Malasaña está ubicada en la latitud 4.030.903 y longitud -386.402, en la Plaza   Sol De 9001 Sn de la ciudad Móstoles, provincia de Madrid
+- La estación Loranca está ubicada en la latitud 4.029.681 y longitud -383.768, en la Calle De La Alegría 4 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Hospital De Fuenlabrada está ubicada en la latitud 4.028.576 y longitud -381.642, en la Cmno Del Molino 3 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Parque Europa está ubicada en la latitud 4.028.518 y longitud -380.632, en la Calle De Francia 34 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Fuenlabrada Central está ubicada en la latitud 4.028.268 y longitud -379.891, en la Calle De La Vía Sn de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Parque De Los Estados está ubicada en la latitud 4.028.684 y longitud -378.697, en la Calle De Venezuela 2 de la ciudad Fuenlabrada, provincia de Madrid
+- La estación Arroyo Culebro está ubicada en la latitud 4.028.874 y longitud -375.682, en la Paseo De Juan José Rosón 1 de la ciudad Getafe, provincia de Madrid
+- La estación Conservatorio está ubicada en la latitud 4.029.324 y longitud -374.576, en la Avda De Las Arcas Del Agua 5 de la ciudad Getafe, provincia de Madrid
+- La estación Alonso De Mendoza está ubicada en la latitud 4.030.081 y longitud -373.664, en la Calle Del Greco 6 de la ciudad Getafe, provincia de Madrid
+- La estación Getafe Central está ubicada en la latitud 4.030.993 y longitud -373.403, en la Calle  Ferrocarril 2 de la ciudad Getafe, provincia de Madrid
+- La estación Juan De La Cierva está ubicada en la latitud 403.118 y longitud -372.224, en la Avda De España 20 de la ciudad Getafe, provincia de Madrid
+- La estación El Casar está ubicada en la latitud 4.031.862 y longitud -370.985, en la Avda Del Casar 2 de la ciudad Getafe, provincia de Madrid
+- La estación Los Espartales está ubicada en la latitud 4.032.423 y longitud -37.182, en la Avda   Rigoberta Menchú 3 de la ciudad Getafe, provincia de Madrid
+- La estación El Bercial está ubicada en la latitud 4.032.907 y longitud -372.963, en la Avda   Comandante José Manuel Ripollés 4 de la ciudad Getafe, provincia de Madrid
+- La estación El Carrascal está ubicada en la latitud 4.033.664 y longitud -374.018, en la Avda   Rey Juan Carlos I 85 de la ciudad Leganés, provincia de Madrid
+- La estación Julian Besteiro está ubicada en la latitud 4.033.475 y longitud -375.266, en la Avda   Rey Juan Carlos I 23 A de la ciudad Leganés, provincia de Madrid
+- La estación Casa Del Reloj está ubicada en la latitud 403.266 y longitud -375.942, en la Avda   Gibraltar 11 de la ciudad Leganés, provincia de Madrid
+- La estación Hospital Severo Ochoa está ubicada en la latitud 4.032.177 y longitud -376.797, en la Avda   Orellana 3 de la ciudad Leganés, provincia de Madrid
+- La estación Leganes Central está ubicada en la latitud 4.032.899 y longitud -377.154, en la Calle  Virgen Del Camino 1 de la ciudad Leganés, provincia de Madrid
+- La estación San Nicasio está ubicada en la latitud 4.033.616 y longitud -377.587, en la Avda   Mar Mediterráneo Sn de la ciudad Leganés, provincia de Madrid
+- La estación Puerta Del Sur está ubicada en la latitud 4.034.543 y longitud -381.249, en la Avda De Leganés 52 de la ciudad Alcorcón, provincia de Madrid: tiene trasbordo con la/s línea/s: 10

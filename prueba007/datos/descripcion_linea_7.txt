@@ -1,0 +1,31 @@
+Descripción detallada de la línea 7:
+
+La línea de metro 7 se llama Hospital del Henares-Pitis.
+- Dirección 1 (ida): de Estadio Metropolitano a Pitis.
+- Dirección 2 (vuelta): de Pitis a Estadio Metropolitano.
+La línea tiene un total de 24 estaciones:
+
+- La estación Estadio Metropolitano está ubicada en la latitud 4.043.339 y longitud -360.015, en la Avda De Arcentales 28 de la ciudad Madrid, provincia de Madrid
+- La estación Las Musas está ubicada en la latitud 4.043.299 y longitud -360.788, en la Avda De Niza 61 de la ciudad Madrid, provincia de Madrid
+- La estación San Blas está ubicada en la latitud 4.042.799 y longitud -361.547, en la Calle De Pobladura Del Valle 27 de la ciudad Madrid, provincia de Madrid
+- La estación Simancas está ubicada en la latitud 4.042.799 y longitud -362.572, en la Calle Del Castillo De Madrigal De Las Altas Torres 15 de la ciudad Madrid, provincia de Madrid
+- La estación Garcia Noblejas está ubicada en la latitud 4.042.842 y longitud -36.333, en la Calle De Luis Del Campo 1 de la ciudad Madrid, provincia de Madrid
+- La estación Ascao está ubicada en la latitud 4.043.021 y longitud -364.106, en la Calle De Ascao 29 de la ciudad Madrid, provincia de Madrid
+- La estación Pueblo Nuevo está ubicada en la latitud 4.043.566 y longitud -364.282, en la Calle De Alcalá 372 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Pueblo Nuevo de las líneas: 5
+- La estación Barrio De La Concepcion está ubicada en la latitud 404.391 y longitud -3.652, en la Calle De Martínez Villergas 1 de la ciudad Madrid, provincia de Madrid
+- La estación Parque De Las Avenidas está ubicada en la latitud 4.043.945 y longitud -366.297, en la Avda De Bruselas 56 de la ciudad Madrid, provincia de Madrid
+- La estación Cartagena está ubicada en la latitud 4.043.934 y longitud -367.215, en la Avda De América 35 de la ciudad Madrid, provincia de Madrid
+- La estación Avenida De America está ubicada en la latitud 4.043.804 y longitud -367.653, en la Avda De América 9 A de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Avenida De America de las líneas: 4, 9
+- La estación Gregorio Marañon está ubicada en la latitud 4.043.825 y longitud -369.148, en la Calle De José Abascal 65 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Gregorio Marañon de las líneas: 10
+- La estación Alonso Cano está ubicada en la latitud 4.043.838 y longitud -369.925, en la Calle De José Abascal 18 de la ciudad Madrid, provincia de Madrid
+- La estación Canal está ubicada en la latitud 404.387 y longitud -370.489, en la Calle De Cea Bermúdez 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Canal de las líneas: 2
+- La estación Islas Filipinas está ubicada en la latitud 4.043.907 y longitud -371.373, en la Calle De Cea Bermúdez 54 de la ciudad Madrid, provincia de Madrid
+- La estación Guzman El Bueno está ubicada en la latitud 4.044.633 y longitud -371.229, en la Calle De Guzmán El Bueno 118 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Guzman El Bueno de las líneas: 6
+- La estación Francos Rodriguez está ubicada en la latitud 4.045.648 y longitud -371.239, en la Avda De Pablo Iglesias 87 de la ciudad Madrid, provincia de Madrid
+- La estación Valdezarza está ubicada en la latitud 4.046.482 y longitud -371.597, en la Calle De San Restituto 70 de la ciudad Madrid, provincia de Madrid
+- La estación Antonio Machado está ubicada en la latitud 4.047.022 y longitud -371.769, en la Calle De Valderrodrigo 55 de la ciudad Madrid, provincia de Madrid
+- La estación Peñagrande está ubicada en la latitud 4.047.592 y longitud -371.582, en la Cmno De Ganapanes 35 de la ciudad Madrid, provincia de Madrid
+- La estación Avenida De La Ilustracion está ubicada en la latitud 404.801 y longitud -37.184, en la Calle De Las Islas Cíes 23 de la ciudad Madrid, provincia de Madrid
+- La estación Lacoma está ubicada en la latitud 4.048.502 y longitud -372.305, en la Calle De Riscos De Polanco 3 de la ciudad Madrid, provincia de Madrid
+- La estación Arroyofresno está ubicada en la latitud 404.909 y longitud -372.604, en la Calle De Federica Montseny 2 de la ciudad Madrid, provincia de Madrid
+- La estación Pitis está ubicada en la latitud 4.049.511 y longitud -372.589, en la Ctra A La Estación De Pitis 19 de la ciudad Madrid, provincia de Madrid

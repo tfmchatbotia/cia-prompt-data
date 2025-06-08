@@ -1,0 +1,22 @@
+La línea de metro 3 se llama Villaverde Alto-Moncloa.
+- Dirección 1 (ida): de Villaverde Alto a Moncloa.
+- Dirección 2 (vuelta): de Moncloa a Villaverde Alto.
+La línea tiene un total de 18 estaciones:
+- La estación Villaverde Alto está ubicada en la latitud 4.034.123 y longitud -371.199, en la Calle Del Valle De Tobalina 56 de la ciudad Madrid, provincia de Madrid
+- La estación San Cristobal está ubicada en la latitud 4.034.154 y longitud -369.318, en la Avda De Andalucía 81 de la ciudad Madrid, provincia de Madrid
+- La estación Villaverde Bajo Cruce está ubicada en la latitud 4.035.089 y longitud -369.265, en la Avda De Andalucía 38 de la ciudad Madrid, provincia de Madrid
+- La estación Ciudad De Los Angeles está ubicada en la latitud 4.035.959 y longitud -369.363, en la Avda De Andalucía 38 de la ciudad Madrid, provincia de Madrid
+- La estación San Fermin-Orcasur está ubicada en la latitud 4.036.999 y longitud -369.418, en la Avda De Andalucía 9 de la ciudad Madrid, provincia de Madrid
+- La estación Hospital 12 De Octubre está ubicada en la latitud 4.037.503 y longitud -369.585, en la Avda De Córdoba 49 de la ciudad Madrid, provincia de Madrid
+- La estación Almendrales está ubicada en la latitud 4.038.409 y longitud -369.788, en la Avda De Córdoba 21 de la ciudad Madrid, provincia de Madrid
+- La estación Legazpi está ubicada en la latitud 4.039.116 y longitud -369.511, en la Plaza De Legazpi 2 B de la ciudad Madrid, provincia de Madrid
+- La estación Delicias está ubicada en la latitud 403.999 y longitud -36.942, en la Paseo De Las Delicias 60 de la ciudad Madrid, provincia de Madrid
+- La estación Palos De La Frontera está ubicada en la latitud 4.040.307 y longitud -369.423, en la Calle De Palos De La Frontera 33 de la ciudad Madrid, provincia de Madrid
+- La estación Embajadores está ubicada en la latitud 4.040.513 y longitud -370.268, en la Gta De Embajadores 10 de la ciudad Madrid, provincia de Madrid
+- La estación Lavapies está ubicada en la latitud 4.040.851 y longitud -37.009, en la Plaza De Lavapiés 7 de la ciudad Madrid, provincia de Madrid
+- La estación Sol está ubicada en la latitud 4.041.682 y longitud -370.326, en la Plaza De La Puerta Del Sol 6 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Sol de las líneas: 2
+- La estación Callao está ubicada en la latitud 4.042.014 y longitud -370.566, en la Plaza Del Callao 3 de la ciudad Madrid, provincia de Madrid
+- La estación Plaza De España está ubicada en la latitud 4.042.342 y longitud -37.112, en la Plaza De España 1 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Plaza De España de las líneas: 10
+- La estación Ventura Rodriguez está ubicada en la latitud 4.042.709 y longitud -371.341, en la Calle De La Princesa 22 de la ciudad Madrid, provincia de Madrid
+- La estación Argüelles está ubicada en la latitud 4.043.066 y longitud -371.596, en la Calle De Alberto Aguilera 72 de la ciudad Madrid, provincia de Madrid
+- La estación Moncloa está ubicada en la latitud 4.043.502 y longitud -371.945, en la Plaza De La Moncloa 1 de la ciudad Madrid, provincia de Madrid

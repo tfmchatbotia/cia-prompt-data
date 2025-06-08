@@ -1,0 +1,30 @@
+Descripción detallada de la línea 4:
+
+La línea de metro 4 se llama Argüelles-Pinar de Chamartín.
+- Dirección 1 (ida): de Argüelles a Pinar De Chamartin.
+- Dirección 2 (vuelta): de Pinar De Chamartin a Argüelles.
+La línea tiene un total de 23 estaciones:
+
+- La estación Argüelles está ubicada en la latitud 404.306 y longitud -371.596, en la Calle De Alberto Aguilera 72 de la ciudad Madrid, provincia de Madrid
+- La estación San Bernardo está ubicada en la latitud 4.042.966 y longitud -370.567, en la Gta De Ruiz Jiménez 5 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación San Bernardo de las líneas: 2
+- La estación Bilbao está ubicada en la latitud 4.042.885 y longitud -370.114, en la Calle De Sagasta 5 de la ciudad Madrid, provincia de Madrid
+- La estación Alonso Martinez está ubicada en la latitud 4.042.772 y longitud -369.594, en la Plaza De Alonso Martínez 4 de la ciudad Madrid, provincia de Madrid
+- La estación Colon está ubicada en la latitud 4.042.542 y longitud -369.101, en la Plaza De Colón 2 de la ciudad Madrid, provincia de Madrid
+- La estación Serrano está ubicada en la latitud 4.042.543 y longitud -368.663, en la Calle De Goya 19 de la ciudad Madrid, provincia de Madrid
+- La estación Velazquez está ubicada en la latitud 4.042.503 y longitud -368.292, en la Calle De Núñez De Balboa 33 de la ciudad Madrid, provincia de Madrid
+- La estación Goya está ubicada en la latitud 4.042.481 y longitud -367.685, en la Calle De Goya 68 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Goya de las líneas: 2
+- La estación Lista está ubicada en la latitud 4.042.917 y longitud -367.541, en la Calle Del Conde De Peñalver 45 de la ciudad Madrid, provincia de Madrid
+- La estación Diego De Leon está ubicada en la latitud 4.043.468 y longitud -367.495, en la Calle De Diego De León 69 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Diego De Leon de las líneas: 5
+- La estación Avenida De America está ubicada en la latitud 4.043.803 y longitud -367.664, en la Avda De América 9 A de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Avenida De America de las líneas: 9
+- La estación Prosperidad está ubicada en la latitud 4.044.419 y longitud -367.482, en la Plaza De La Prosperidad 4 de la ciudad Madrid, provincia de Madrid
+- La estación Alfonso Xiii está ubicada en la latitud 4.044.825 y longitud -366.791, en la Calle De López De Hoyos 190 de la ciudad Madrid, provincia de Madrid
+- La estación Avenida De La Paz está ubicada en la latitud 4.045.354 y longitud -366.118, en la Avda De Ramón Y Cajal 107 de la ciudad Madrid, provincia de Madrid
+- La estación Arturo Soria está ubicada en la latitud 4.045.583 y longitud -365.618, en la Calle De Arturo Soria 172 de la ciudad Madrid, provincia de Madrid
+- La estación Esperanza está ubicada en la latitud 4.045.945 y longitud -364.582, en la Calle De Andorra 51 de la ciudad Madrid, provincia de Madrid
+- La estación Canillas está ubicada en la latitud 4.046.381 y longitud -36.356, en la Avda De Machupichu 64 de la ciudad Madrid, provincia de Madrid
+- La estación Mar De Cristal está ubicada en la latitud 4.046.943 y longitud -363.832, en la Gta Del Mar De Cristal 1 B de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Mar De Cristal de las líneas: 8
+- La estación San Lorenzo está ubicada en la latitud 4.047.447 y longitud -363.958, en la Avda De La Barranquilla 9 de la ciudad Madrid, provincia de Madrid
+- La estación Parque De Santa Maria está ubicada en la latitud 4.047.711 y longitud -364.524, en la Calle De Santa Virgilia 1 de la ciudad Madrid, provincia de Madrid
+- La estación Hortaleza está ubicada en la latitud 4.047.537 y longitud -365.257, en la Calle Del Capitán Cortés 4 de la ciudad Madrid, provincia de Madrid
+- La estación Manoteras está ubicada en la latitud 4.047.687 y longitud -36.629, en la Calle De Bacares 24 de la ciudad Madrid, provincia de Madrid
+- La estación Pinar De Chamartin está ubicada en la latitud 4.048.014 y longitud -366.676, en la Calle De Arturo Soria 330 de la ciudad Madrid, provincia de Madrid: tiene conexión con la estación Pinar De Chamartin de las líneas: 1

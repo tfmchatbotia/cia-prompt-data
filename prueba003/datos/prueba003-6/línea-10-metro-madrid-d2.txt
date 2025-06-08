@@ -1,0 +1,25 @@
+La línea de metro 10 se llama Hospital Infanta Sofía-Puerta del Sur.
+
+La línea de metro 10 con dirección Puerta del Sur, se compone de un total de 21 estaciones:
+
+- Tres Olivos está ubicada en la latitud 405.012 y longitud -36.952, en la Acces   M-607 Sn de la ciudad Madrid, provincia de Madrid.
+- Fuencarral está ubicada en la latitud 4.049.509 y longitud -369.283, en la Calle De La Fuente Chica 21 de la ciudad Madrid, provincia de Madrid.
+- Begoña está ubicada en la latitud 4.048.041 y longitud -368.585, en la Paseo De La Castellana 261 de la ciudad Madrid, provincia de Madrid.
+- Chamartin está ubicada en la latitud 404.721 y longitud -368.259, en la Calle De Agustín De Foxá 40 de la ciudad Madrid, provincia de Madrid.
+- Plaza De Castilla está ubicada en la latitud 404.669 y longitud -368.909, en la Paseo De La Castellana 216 de la ciudad Madrid, provincia de Madrid.
+- Cuzco está ubicada en la latitud 4.045.842 y longitud -368.985, en la Paseo De La Castellana 162 de la ciudad Madrid, provincia de Madrid.
+- Santiago Bernabeu está ubicada en la latitud 4.045.159 y longitud -369.038, en la Paseo De La Castellana 97 de la ciudad Madrid, provincia de Madrid.
+- Nuevos Ministerios está ubicada en la latitud 4.044.659 y longitud -369.241, en la Calle De Raimundo Fernández Villaverde 67 de la ciudad Madrid, provincia de Madrid.
+- Gregorio Marañon está ubicada en la latitud 4.043.753 y longitud -369.127, en la Calle De Miguel Ángel 29 de la ciudad Madrid, provincia de Madrid.
+- Alonso Martinez está ubicada en la latitud 4.042.853 y longitud -369.643, en la Calle De Manuel González Longoria 14 de la ciudad Madrid, provincia de Madrid.
+- Tribunal está ubicada en la latitud 40.426 y longitud -370.208, en la Calle De La Palma 5 de la ciudad Madrid, provincia de Madrid.
+- Plaza De España está ubicada en la latitud 4.042.409 y longitud -37.097, en la Calle De Los Reyes 10 de la ciudad Madrid, provincia de Madrid.
+- Principe Pio está ubicada en la latitud 4.042.103 y longitud -372.033, en la Paseo De La Florida 2 de la ciudad Madrid, provincia de Madrid, tiene intercambiador con Principe Pio de la línea R.
+- Lago está ubicada en la latitud 4.041.641 y longitud -373.563, en la Ronda Del Lago 3 de la ciudad Madrid, provincia de Madrid.
+- Batan está ubicada en la latitud 4.040.786 y longitud -375.311, en la Paseo De La Venta 1 de la ciudad Madrid, provincia de Madrid.
+- Casa De Campo está ubicada en la latitud 4.040.321 y longitud -376.101, en la Paseo De La Venta Sn de la ciudad Madrid, provincia de Madrid.
+- Colonia Jardin está ubicada en la latitud 4.039.698 y longitud -377.462, en la Calle De Arenas De San Pedro 2 de la ciudad Madrid, provincia de Madrid.
+- Aviacion Española está ubicada en la latitud 4.038.364 y longitud -378.392, en la Paseo De Extremadura 463 de la ciudad Madrid, provincia de Madrid.
+- Cuatro Vientos está ubicada en la latitud 4.037.771 y longitud -379.152, en la Col   Militar De Cuatro Vientos 6 B de la ciudad Madrid, provincia de Madrid.
+- Joaquin Vilumbrales está ubicada en la latitud 4.034.985 y longitud -38.072, en la Avda De La Libertad 13 de la ciudad Alcorcón, provincia de Madrid.
+- Puerta Del Sur está ubicada en la latitud 4.034.524 y longitud -381.211, en la Avda De La Libertad 2 de la ciudad Alcorcón, provincia de Madrid.
